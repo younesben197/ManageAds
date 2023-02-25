@@ -1,1 +1,23 @@
-{"Ads":[{"Ads_Banner":"admob","Ads_Inter":"admob"}]}
+{
+  "Init": {
+    "IS": true,
+    "Admob": true
+  }
+  "EnabledAds": {
+    "Banner": true,
+    "Inter": true,
+    "Native": true
+  }
+  "PlateformAds":{
+    "Banner": "ADMOB",
+    "Inter": "ADMOB",
+    "Native": "ADMOB"
+  }
+  "CPA": {
+    "EnableImage": true,
+    "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+    "Url": "https://www.google.com"
+  }
+
+
+}
