@@ -5,7 +5,7 @@
   }
   "EnabledAds": {
     "Banner": true,
-    "Inter": true,
+    "Inter": false,
     "Native": true
   }
   "PlatformAds":{
