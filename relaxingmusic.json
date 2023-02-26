@@ -8,7 +8,7 @@
     "Inter": true,
     "Native": true
   }
-  "PlateformAds":{
+  "PlatformAds":{
     "Banner": "ADMOB",
     "Inter": "ADMOB",
     "Native": "ADMOB"
