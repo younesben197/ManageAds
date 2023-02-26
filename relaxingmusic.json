@@ -2,17 +2,17 @@
   "Init": {
     "IS": true,
     "Admob": true
-  }
+  },
   "EnabledAds": {
     "Banner": true,
     "Inter": false,
     "Native": true
-  }
+  },
   "PlatformAds":{
     "Banner": "ADMOB",
     "Inter": "ADMOB",
     "Native": "ADMOB"
-  }
+  },
   "CPA": {
     "EnableImage": true,
     "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
